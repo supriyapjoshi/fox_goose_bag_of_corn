@@ -1,0 +1,2 @@
+defmodule FoxGooseBagOfCorn do
+end
